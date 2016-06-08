@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: f191b90cbf155d04ebbc7547461e4e6a
+timeCreated: 1465323435
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cuerpo
+    21300002: item
+    21300004: Atlas_2
+    21300006: Atlas_3
+    21300008: Atlas_4
+    21300010: patainferiorb
+    21300012: patasuperiorb
+    21300014: Atlas_7
+    21300016: Atlas_8
+    21300018: Atlas_9
+    21300020: Atlas_10
+    21300022: pata superiora
+    21300024: patainferiora
+    21300026: Atlas_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 120
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: cuerpo
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 150
+        width: 96
+        height: 106
+      alignment: 9
+      pivot: {x: 0.46215177, y: 0.44572738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.36657, y: 58.7529}
+        - {x: -44.36657, y: -47.2471}
+        - {x: 51.63343, y: -47.2471}
+        - {x: 51.63343, y: 54.7529}
+        - {x: 28.63343, y: 58.7529}
+    - name: item
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 172
+        width: 68
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5541855, y: 0.6258158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.684616, y: 30.683105}
+        - {x: -37.684616, y: -51.316895}
+        - {x: 30.315384, y: -51.316895}
+        - {x: 30.315384, y: 30.683105}
+    - name: Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 229
+        width: 51
+        height: 25
+      alignment: 9
+      pivot: {x: 0.8946019, y: 0.6820807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 160
+        width: 547
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 273.5, y: 27.5}
+        - {x: 269.5, y: 32.5}
+        - {x: 268.5, y: 33.5}
+        - {x: -267.5, y: 33.5}
+        - {x: -272.5, y: 29.5}
+        - {x: -272.5, y: 28.5}
+        - {x: -273.5, y: 27.5}
+        - {x: -273.5, y: -27.5}
+        - {x: -269.5, y: -32.5}
+        - {x: -268.5, y: -32.5}
+        - {x: -267.5, y: -33.5}
+        - {x: 267.5, y: -33.5}
+        - {x: 272.5, y: -29.5}
+        - {x: 272.5, y: -28.5}
+        - {x: 273.5, y: -27.5}
+    - name: Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 174
+        width: 48
+        height: 53
+      alignment: 9
+      pivot: {x: 0.854379, y: 0.8435482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.010193, y: 8.291946}
+        - {x: -41.010193, y: -21.708054}
+        - {x: -41.010193, y: -44.708054}
+        - {x: -27.010193, y: -44.708054}
+        - {x: 6.989807, y: -11.708054}
+        - {x: 6.989807, y: 8.291946}
+    - name: patainferiorb
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 157
+        width: 25
+        height: 13
+      alignment: 9
+      pivot: {x: 0.33044067, y: 0.7096194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: patasuperiorb
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 115
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5684496, y: 0.8569652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 121
+        width: 38
+        height: 51
+      alignment: 9
+      pivot: {x: 0.6214648, y: 0.17210537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.615662, y: 42.222626}
+        - {x: -23.615662, y: 32.222626}
+        - {x: -23.615662, y: -8.777374}
+        - {x: 8.384338, y: -8.777374}
+        - {x: 14.384338, y: -6.7773743}
+        - {x: 14.384338, y: 42.222626}
+    - name: Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 62
+        width: 101
+        height: 84
+      alignment: 9
+      pivot: {x: 0.44070134, y: 0.10785448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.510834, y: 74.94022}
+        - {x: -44.510834, y: 53.940224}
+        - {x: -44.510834, y: 5.9402237}
+        - {x: -37.510834, y: -9.059776}
+        - {x: 38.489166, y: -9.059776}
+        - {x: 56.489166, y: 2.9402237}
+        - {x: 56.489166, y: 72.94022}
+        - {x: 49.489166, y: 74.94022}
+    - name: Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 86
+        width: 275
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -132.5, y: 34.5}
+        - {x: -137.5, y: 32.5}
+        - {x: -137.5, y: -30.5}
+        - {x: -132.5, y: -34.5}
+        - {x: 133.5, y: -34.5}
+        - {x: 137.5, y: -32.5}
+        - {x: 137.5, y: 34.5}
+    - name: Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 45
+        height: 58
+      alignment: 9
+      pivot: {x: 0.6864268, y: 0.1726534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.889206, y: -3.013897}
+        - {x: -27.889206, y: -10.013897}
+        - {x: 9.110794, y: -10.013897}
+        - {x: 14.110794, y: -8.013897}
+        - {x: 14.110794, y: 40.986103}
+        - {x: 13.110794, y: 47.986103}
+        - {x: -18.889206, y: 47.986103}
+        - {x: -30.889206, y: 36.986103}
+    - name: pata superiora
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3
+        width: 42
+        height: 58
+      alignment: 9
+      pivot: {x: 0.52102536, y: 0.8577972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.883064, y: 8.247761}
+        - {x: -21.883064, y: -48.75224}
+        - {x: -19.883064, y: -49.75224}
+        - {x: 15.116936, y: -49.75224}
+        - {x: 20.116936, y: -41.75224}
+        - {x: 20.116936, y: 4.247761}
+        - {x: 18.116936, y: 8.247761}
+    - name: patainferiora
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 3
+        width: 45
+        height: 57
+      alignment: 9
+      pivot: {x: 0.480376, y: 0.8098504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.61692, y: 10.838528}
+        - {x: -21.61692, y: 7.8385277}
+        - {x: -21.61692, y: -24.161472}
+        - {x: -14.61692, y: -44.161472}
+        - {x: -10.61692, y: -46.161472}
+        - {x: 8.38308, y: -46.161472}
+        - {x: 23.38308, y: -20.161472}
+        - {x: 23.38308, y: 8.838528}
+        - {x: 17.38308, y: 10.838528}
+    - name: Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 17
+        width: 824
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 412, y: 27.5}
+        - {x: 408, y: 32.5}
+        - {x: 407, y: 33.5}
+        - {x: -406, y: 33.5}
+        - {x: -411, y: 29.5}
+        - {x: -411, y: 28.5}
+        - {x: -412, y: 27.5}
+        - {x: -412, y: -27.5}
+        - {x: -408, y: -32.5}
+        - {x: -407, y: -32.5}
+        - {x: -406, y: -33.5}
+        - {x: 406, y: -33.5}
+        - {x: 411, y: -29.5}
+        - {x: 411, y: -28.5}
+        - {x: 412, y: -27.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
