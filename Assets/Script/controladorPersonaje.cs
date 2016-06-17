@@ -53,6 +53,7 @@ public class controladorPersonaje : MonoBehaviour {
             } else
             {
                 corriendo = true;
+                NotificationCenter.DefaultCenter().PostNotification(this, "PersonajeEmpiezaCorrer");
             }
         }
     }
